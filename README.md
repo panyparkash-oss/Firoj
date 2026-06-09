@@ -113,7 +113,7 @@ p {
   </a>
 
   <!-- CHANNEL BUTTON -->
-  <a href="https://t.me/YOUR_CHANNEL" class="btn2"
+  <a href="https://t.me/+p7Q8pR0dfdMxN2E1" class="btn2"
      onclick="fbq('track','Lead')">
      📢 JOIN TELEGRAM CHANNEL
   </a>
